@@ -1,0 +1,12 @@
+SVR model
+
+Features: ['t_cure', 'teneur_ciment', 'w_t', 'silt', 'kaol', 's', 'illite', 'W/C']
+Target: ['Rc']
+
+Parameters chosen
+C = 2.999999999999999
+Epsilon = 0.05002128604056483
+Gamma = 0.10010000000000001
+
+Best training score: -0.2885635834483475
+Score: 0.8607645589857863

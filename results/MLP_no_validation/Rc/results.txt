@@ -1,0 +1,8 @@
+MLP model
+
+Features: ['t_cure', 'teneur_ciment', 'w_t', 'silt', 'kaol', 's', 'illite', 'W/C']
+Target: ['Rc']
+Number of hidden layers: = 7
+
+Training score: -0.5411481403869643
+Score: 0.9100130126054464

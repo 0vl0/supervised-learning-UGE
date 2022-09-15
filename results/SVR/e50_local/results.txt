@@ -1,0 +1,12 @@
+SVR model
+
+Features: ['t_cure', 'teneur_ciment', 'w_t', 'silt', 'kaol', 's', 'illite', 'W/C']
+Target: ['e50_local']
+
+Parameters chosen
+C = 7261.6431304515645
+Epsilon = 0.057770328674914384
+Gamma = 0.30010000000000003
+
+Training score: 0.2874603342558683
+Validation score: 0.7556873365895381
